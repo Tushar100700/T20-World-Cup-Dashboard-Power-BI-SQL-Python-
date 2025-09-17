@@ -62,7 +62,8 @@ Power Query / DAX – Calculated columns & measures
 
 📸 Dashboard Preview
 
-(Add a screenshot of your Power BI dashboard here — e.g. points table, player stats page)
+<https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/1T20.png>
+
 
 🎯 Outcomes
 
