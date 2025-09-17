@@ -1,5 +1,11 @@
 # T20-World-Cup-Dashboard-Power-BI-SQL-Python-
 🏏 T20 Cricket World Cup Data Analytics  This project provides end-to-end data analytics of the T20 Cricket World Cup, combining SQL, Python, and Power BI to create interactive dashboards. The aim is to help fans, analysts, and learners explore cricket data in a structured and visual way.
+
+## 📊 Project Overview  
+This project is inspired by the **CodeBasics YouTube channel** where I built an interactive **T20 world cup Dashboard** in Power BI to analyze and visualize business performance for a computer hardware company.  
+
+[▶ CodeBasics YouTube Playlist](https://www.youtube.com/watch?v=4QkYy1wANXA&t=1619s) 
+
 🚀 Project Workflow
 
 Data Collection
