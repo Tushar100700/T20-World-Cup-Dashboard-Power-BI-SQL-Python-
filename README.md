@@ -63,19 +63,19 @@ Power Query / DAX – Calculated columns & measures
 📸 Dashboard Preview
 
 Powerhitter
-<img src="https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/1T20.png">
-
-Anchor
-<img src="https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/2T20.png">
-
-Finishers
 <img src="https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/3T20.png">
 
-All Rounders
+Anchor
 <img src="https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/4T20.png">
 
-Fast Bowler 
+Finishers
 <img src="https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/5T20.png">
+
+All Rounders
+<img src="https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/6T20.png">
+
+Fast Bowler 
+<img src="https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/720.png">
 
 
 
