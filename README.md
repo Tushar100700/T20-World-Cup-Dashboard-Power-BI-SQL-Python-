@@ -72,4 +72,3 @@ Feel free to fork this repo, raise issues, or suggest improvements!
 
 ⚡ Author: [Tushar Yete]
 
-👉 Do you want me to also create a short GitHub repo description + tagline (the one that appears right under the repo title), e.g. “SQL + Power BI based dashboard for T20 Cricket World Cup analytics”?
